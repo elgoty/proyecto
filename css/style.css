@@ -1,0 +1,21 @@
+body{
+    background-color:lime;
+    background-image: url("../img/portada.jfif");
+    background-size: cover;
+    color: white;
+}
+
+.girasol{
+    width: 200px;
+}
+
+.inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inicio h1{
+    font-size: 100px ;
+    font-weight:  bold;
+}
